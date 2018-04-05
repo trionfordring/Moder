@@ -1,0 +1,5 @@
+<Moder>
+	<module class="t.Client" key="cl_1"/>
+	<module class="t.Client" key="cl_2"/>
+	<module class="t.Client" key="cl_3"/>
+</Moder>
